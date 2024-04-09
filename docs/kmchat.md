@@ -24,9 +24,9 @@ Only install scripts from sources you trust.
 - Ensure the computer has internet access.
 
 - Choose your browser's extension store below
-	- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/48px-Google_Chrome_icon_%28February_2022%29.svg.png" width="48" height="48"> [Chrome/Edge](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo) 
+	- <a href="https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/48px-Google_Chrome_icon_%28February_2022%29.svg.png" width="48" height="48" alt="Google Chrome"></a> Chrome/Edge
 
-	- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/77px-Firefox_logo%2C_2019.svg.png" width="48" height="48">[Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+	- <a href="https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/77px-Firefox_logo%2C_2019.svg.png" width="48" height="48"></a>Firefox
 
 - Click on the “Add to Browser” button to install Tampermonkey.
 
