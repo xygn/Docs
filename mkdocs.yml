@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: XYGNDocs
+copyright: (C) Sai Vishal 2024 vishal@manipal.edu
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
+  - BlankDate: kmchat.md
